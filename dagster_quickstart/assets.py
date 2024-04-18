@@ -10,6 +10,7 @@ from dagster import (
     MaterializeResult,
     MetadataValue,
     asset,
+    sensor
 )
 from dagster_quickstart.configurations import HNStoriesConfig
 
@@ -91,3 +92,27 @@ def start_inference_job(config: HNStoriesConfig):
 
     response = requests.request("POST", url, headers=headers, data=json.dumps(params))
     print(response)
+
+@asset
+def display_inference_results(config: HNStoriesConfig):
+    s3 = boto3.client(
+        service_name = 's3',
+        endpoint_url = 'https://05aac85f0f9af317c65df97826af8962.r2.cloudflarestorage.com',
+        aws_access_key_id = os.environ['R2_ACCESS_KEY_ID'],
+        aws_secret_access_key = os.environ['R2_SECRET_ACCESS_KEY'],
+        region_name = 'wnam'
+    )
+
+@sensor(asset_selection=[display_inference_results])
+def s3_sensor(config: HNStoriesConfig):
+    s3 = boto3.client(
+        service_name = 's3',
+        endpoint_url = 'https://05aac85f0f9af317c65df97826af8962.r2.cloudflarestorage.com',
+        aws_access_key_id = os.environ['R2_ACCESS_KEY_ID'],
+        aws_secret_access_key = os.environ['R2_SECRET_ACCESS_KEY'],
+        region_name = 'wnam'
+    )
+
+    kwargs = {'Bucket': config.s3_bucket, 'Prefix': config.hackernews_stories_date}
+    resp = s3.list_objects_v2(**kwargs)
+    print(resp)
