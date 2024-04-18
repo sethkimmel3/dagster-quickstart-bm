@@ -10,7 +10,12 @@ from dagster import (
     MaterializeResult,
     MetadataValue,
     asset,
-    sensor
+    sensor,
+    RunRequest,
+    RunConfig,
+    AssetSelection,
+    op,
+    job
 )
 from dagster_quickstart.configurations import HNStoriesConfig
 
@@ -94,7 +99,27 @@ def start_inference_job(config: HNStoriesConfig):
     print(response)
 
 @asset
-def display_inference_results(config: HNStoriesConfig):
+def do_something_with_inference_results(config: HNStoriesConfig):
+    s3 = boto3.client(
+        service_name = 's3',
+        endpoint_url = 'https://05aac85f0f9af317c65df97826af8962.r2.cloudflarestorage.com',
+        aws_access_key_id = os.environ['R2_ACCESS_KEY_ID'],
+        aws_secret_access_key = os.environ['R2_SECRET_ACCESS_KEY'],
+        region_name = 'wnam'
+    )
+    key = '/'.join([config.hackernews_stories_date, config.return_file])
+    obj = s3.get_object(Bucket=config.s3_bucket, Key=key)
+    df = pd.read_csv(io.BytesIO(obj['Body'].read()))
+
+    for i in range(df.shape[0]):
+        print(df.iloc[i]['title'])
+        print(df.iloc[i]['generated_text'])
+        print()
+
+@sensor(
+    asset_selection=AssetSelection.assets(do_something_with_inference_results)
+)
+def s3_sensor(context):
     s3 = boto3.client(
         service_name = 's3',
         endpoint_url = 'https://05aac85f0f9af317c65df97826af8962.r2.cloudflarestorage.com',
@@ -103,16 +128,17 @@ def display_inference_results(config: HNStoriesConfig):
         region_name = 'wnam'
     )
 
-@sensor(asset_selection=[display_inference_results])
-def s3_sensor(config: HNStoriesConfig):
-    s3 = boto3.client(
-        service_name = 's3',
-        endpoint_url = 'https://05aac85f0f9af317c65df97826af8962.r2.cloudflarestorage.com',
-        aws_access_key_id = os.environ['R2_ACCESS_KEY_ID'],
-        aws_secret_access_key = os.environ['R2_SECRET_ACCESS_KEY'],
-        region_name = 'wnam'
-    )
+    if context.cursor == 'False' or context.cursor == None:
+        resp = s3.list_objects_v2(Bucket='batch-monkey-demo')['Contents']
+        all_keys = [item['Key'] for item in resp]
 
-    kwargs = {'Bucket': config.s3_bucket, 'Prefix': config.hackernews_stories_date}
-    resp = s3.list_objects_v2(**kwargs)
-    print(resp)
+        print(all_keys)
+
+        if '2023-09-15/hackernews_inference_results.csv' in all_keys:
+            context.update_cursor('True')
+            yield RunRequest(
+                run_key="",
+                run_config={}
+            )
+        else:
+            context.update_cursor('False')
