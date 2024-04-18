@@ -1,0 +1,513 @@
+,id,title,aviation_prompt
+0,37516523,Unity has seemingly silently removed its GitHub repo that tracks ToS changes,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Unity has seemingly silently removed its GitHub repo that tracks ToS changes"
+1,37516542,Godot Development Fund,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Godot Development Fund"
+2,37516544,"Salesforce to Hire 3,300 People After Layoffs Earlier This Year","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Salesforce to Hire 3,300 People After Layoffs Earlier This Year"
+3,37516665,Blogscroll – an open-source directory of personal blogs and digital gardens,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Blogscroll – an open-source directory of personal blogs and digital gardens"
+4,37516769,Bluesky Exploits,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Bluesky Exploits"
+5,37516835,Cannabis use disorder and subsequent risk of depression and bipolar disorder,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Cannabis use disorder and subsequent risk of depression and bipolar disorder"
+6,37517118,A mathematical formalization of dimensional analysis (2012),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: A mathematical formalization of dimensional analysis (2012)"
+7,37517216,Plex to block all servers hosted at Hetzner,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Plex to block all servers hosted at Hetzner"
+8,37517246,Why Does America Provide More Space for Storing Cars Than Housing People?,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Why Does America Provide More Space for Storing Cars Than Housing People?"
+9,37517329,Linear code is more readable,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Linear code is more readable"
+10,37517361,How can we have a proper debate when we no longer speak the same language?,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: How can we have a proper debate when we no longer speak the same language?"
+11,37517368,95 bits per second,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: 95 bits per second"
+12,37517473,TSA officers accused of stealing from passengers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: TSA officers accused of stealing from passengers"
+13,37517567,B612 Font Family,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: B612 Font Family"
+14,37517844,Patience for after-hours work socializing is wearing thin,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Patience for after-hours work socializing is wearing thin"
+15,37517861,Find That Obscure Function with This Interactive Map of the Linux Kernel,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Find That Obscure Function with This Interactive Map of the Linux Kernel"
+16,37518030,Human trials of artificial wombs could start soon,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Human trials of artificial wombs could start soon"
+17,37518401,Gaussian Splatting: The next big thing in 3D [video],"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Gaussian Splatting: The next big thing in 3D [video]"
+18,37518511,AI voices are taking over the internet,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: AI voices are taking over the internet"
+19,37518709,United Auto Workers launches a historic strike against all Big 3 automakers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: United Auto Workers launches a historic strike against all Big 3 automakers"
+20,37518874,Custom Minecraft Classic client written from scratch in C,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Custom Minecraft Classic client written from scratch in C"
+21,37518882,Exposing a Podcast Scam [video],"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Exposing a Podcast Scam [video]"
+22,37518920,Positive Geometries and Amplitudes [pdf],"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Positive Geometries and Amplitudes [pdf]"
+23,37519053,Global Google Kubernetes Engine Outage,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Global Google Kubernetes Engine Outage"
+24,37519066,"Libsodium: A modern, portable, easy to use crypto library","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Libsodium: A modern, portable, easy to use crypto library"
+25,37519368,VÉgA – Vocabulary of Ancient Egyptian,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: VÉgA – Vocabulary of Ancient Egyptian"
+26,37519418,Willingham sends Fables into the public domain,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Willingham sends Fables into the public domain"
+27,37519672,SexualActivityRecord,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: SexualActivityRecord"
+28,37519852,The Ashrae Ventilation Recommendations Are Too Low,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The Ashrae Ventilation Recommendations Are Too Low"
+29,37519928,"MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator"
+30,37519961,"Stripe Forbids Sex Work, but Profits from Non-Consensual Porn","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Stripe Forbids Sex Work, but Profits from Non-Consensual Porn"
+31,37519982,Marginalia Search Receives FUTO Grant,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Marginalia Search Receives FUTO Grant"
+32,37520039,FindMyCat – Open-Source Pet Tracker,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: FindMyCat – Open-Source Pet Tracker"
+33,37520065,On the Impending Crypto Monoculture (2016),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: On the Impending Crypto Monoculture (2016)"
+34,37520079,Unity’s new pricing: A wake-up call on the importance of open source,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Unity’s new pricing: A wake-up call on the importance of open source"
+35,37520212,Delphi 11 Community Edition,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Delphi 11 Community Edition"
+36,37520374,Ask HN: How do you manage your “family data warehouse”?,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Ask HN: How do you manage your “family data warehouse”?"
+37,37520441,BotOrNot (2021),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: BotOrNot (2021)"
+38,37520509,C++Builder 11 Community Edition,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: C++Builder 11 Community Edition"
+39,37520528,‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: ‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k"
+40,37520536,"Norway Fining Meta $98,500 per Day for User Privacy Breach","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Norway Fining Meta $98,500 per Day for User Privacy Breach"
+41,37520890,A Primer on Logic Programming,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: A Primer on Logic Programming"
+42,37521167,"Ukraine: Europe clearly overtakes US, with total commitments now twice as large","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Ukraine: Europe clearly overtakes US, with total commitments now twice as large"
+43,37521240,How does Linux start a process,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: How does Linux start a process"
+44,37521273,Backup the caravan,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Backup the caravan"
+45,37521340,Inflation-adjusted iPhone 15 most affordable base model since 2007 original,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Inflation-adjusted iPhone 15 most affordable base model since 2007 original"
+46,37521375,Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities"
+47,37521383,Glazes induced degradation of tea catechins,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Glazes induced degradation of tea catechins"
+48,37521710,TikTok fined €345M for breaking EU data law on children’s accounts,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: TikTok fined €345M for breaking EU data law on children’s accounts"
+49,37521756,How CPython Implements and Uses Bloom Filters for String Processing,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: How CPython Implements and Uses Bloom Filters for String Processing"
+50,37521804,The Pixel Tablet is just a few spare parts in a half-empty body,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The Pixel Tablet is just a few spare parts in a half-empty body"
+51,37521861,NASA says more science and less stigma are needed to understand UFOs,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: NASA says more science and less stigma are needed to understand UFOs"
+52,37521931,"Yes, Android 14 still allows modification of system certificates","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Yes, Android 14 still allows modification of system certificates"
+53,37522106,Akiyoshi’s Illusion Pages,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Akiyoshi’s Illusion Pages"
+54,37522121,Show HN: Oyie – A micro social app to stay in sync with your friends,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Show HN: Oyie – A micro social app to stay in sync with your friends"
+55,37522290,Truthiness in C,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Truthiness in C"
+56,37522321,The patterns of Venus’s movement across the sky,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The patterns of Venus’s movement across the sky"
+57,37522358,"Show HN: I created a website with nature sounds for focus, relaxation and sleep","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Show HN: I created a website with nature sounds for focus, relaxation and sleep"
+58,37522700,The Evolution of Vi and Vim,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The Evolution of Vi and Vim"
+59,37522799,Johnson and Johnson is getting rid of its script logo after more than 130 years,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Johnson and Johnson is getting rid of its script logo after more than 130 years"
+60,37522858,Carrefour puts ‘shrinkflation’ price warnings on food to shame brands,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Carrefour puts ‘shrinkflation’ price warnings on food to shame brands"
+61,37522872,Tell HN: Google randomly deleting Chromebook configs,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Tell HN: Google randomly deleting Chromebook configs"
+62,37522979,"Salesforce is hiring over 3k people, despite axing 10% of staff","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Salesforce is hiring over 3k people, despite axing 10% of staff"
+63,37523114,Bike tire made from NASA’s shape-shifting metal are now available to buy,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Bike tire made from NASA’s shape-shifting metal are now available to buy"
+64,37523314,New camera offers ultrafast imaging at a fraction of the normal cost,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: New camera offers ultrafast imaging at a fraction of the normal cost"
+65,37523409,iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong"
+66,37523519,A terawatt of solar module capacity expected within 16 months,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: A terawatt of solar module capacity expected within 16 months"
+67,37523728,Workers strike at all 3 Detroit automakers for bigger share of industry profits,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Workers strike at all 3 Detroit automakers for bigger share of industry profits"
+68,37523796,The Symbol Grounding Problem (1990) [pdf],"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The Symbol Grounding Problem (1990) [pdf]"
+69,37523873,We forced our company to allow work from home again,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: We forced our company to allow work from home again"
+70,37523992,Google to pay $93M in settlement over deceptive location tracking,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Google to pay $93M in settlement over deceptive location tracking"
+71,37524158,California passes bill to make it easier to delete data from data brokers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: California passes bill to make it easier to delete data from data brokers"
+72,37524169,Introduction to Hilbert Space (2022) [pdf],"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Introduction to Hilbert Space (2022) [pdf]"
+73,37524202,Shrinkflation Tracker,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Shrinkflation Tracker"
+74,37524285,Apocalypse Proof: 33 Thomas Street in New York City,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Apocalypse Proof: 33 Thomas Street in New York City"
+75,37524331,Repeat after me: building any new homes reduces housing costs for all,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Repeat after me: building any new homes reduces housing costs for all"
+76,37524657,Oregon launches legal psilocybin access,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Oregon launches legal psilocybin access"
+77,37524686,Artificial intelligence can revolutionise science,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Artificial intelligence can revolutionise science"
+78,37524890,Optimizing LLMs from a Dataset Perspective,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Optimizing LLMs from a Dataset Perspective"
+79,37525069,Should I Rust or Should I Go?,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Should I Rust or Should I Go?"
+80,37525348,How to store a chess position in 26 bytes using bit-level magic (2022),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: How to store a chess position in 26 bytes using bit-level magic (2022)"
+81,37525484,Text classifiers are an underrated application of LLMs,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Text classifiers are an underrated application of LLMs"
+82,37525603,Show HN: I Wrote a Book About Database Indexes for Developers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Show HN: I Wrote a Book About Database Indexes for Developers"
+83,37525746,'Empty shelves with no books': School Library Discards pre-2008 books,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: 'Empty shelves with no books': School Library Discards pre-2008 books"
+84,37525921,"Google says it can’t fix Pixel Watches, please just buy a new one","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Google says it can’t fix Pixel Watches, please just buy a new one"
+85,37526047,My favourite API is a zipfile on the European Central Bank's website,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: My favourite API is a zipfile on the European Central Bank's website"
+86,37526099,EU confirms six (mostly US) tech giants are subject to Digital Markets Act,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: EU confirms six (mostly US) tech giants are subject to Digital Markets Act"
+87,37526306,Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long"
+88,37526329,Seattle officer caught on cam laughing after collision that killed grad student,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Seattle officer caught on cam laughing after collision that killed grad student"
+89,37526399,Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013)"
+90,37526444,"Apple A17 Pro SoC single-core benchmark score close to Intel i9-13900K,AMD 7950X","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Apple A17 Pro SoC single-core benchmark score close to Intel i9-13900K,AMD 7950X"
+91,37526477,Kopia: Fast and secure open-source backup software,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Kopia: Fast and secure open-source backup software"
+92,37526512,Plex announced to block instances on German hosting provider Hetzner,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Plex announced to block instances on German hosting provider Hetzner"
+93,37526556,The Gap in the Armor of Baldur’s Gate and 5e,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The Gap in the Armor of Baldur’s Gate and 5e"
+94,37526565,Apple Tech Support Staff Urged to Stay Mum on iPhone 12 Radiation Issue,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Apple Tech Support Staff Urged to Stay Mum on iPhone 12 Radiation Issue"
+95,37526704,Cocaine is about surpass oil as Colombia's top export as revenues near $20B,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Cocaine is about surpass oil as Colombia's top export as revenues near $20B"
+96,37526978,"State secrecy, not misinformation, is killing American democracy","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: State secrecy, not misinformation, is killing American democracy"
+97,37526994,ChessMonitor – Analytics for Lichess and Chess.com,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: ChessMonitor – Analytics for Lichess and Chess.com"
+98,37527060,Is Unity allowed to just change its fee structure like that?,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Is Unity allowed to just change its fee structure like that?"
+99,37527250,Macron wants social networks to detect and stop VPN users,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Macron wants social networks to detect and stop VPN users"
+100,37527259,Ex-Finance developers mock McKinsey's monitoring metrics,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Ex-Finance developers mock McKinsey's monitoring metrics"
+101,37527599,Pixel Sea: Search 88x31 badges and 32x32 icons,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Pixel Sea: Search 88x31 badges and 32x32 icons"
+102,37527720,I built Excel for Uber and they ditched it,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: I built Excel for Uber and they ditched it"
+103,37527773,Building an economy simulator from scratch,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Building an economy simulator from scratch"
+104,37527928,Books for Game Developers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Books for Game Developers"
+105,37528048,Musk’s X revokes paid blue check from United Auto Workers after strike called,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Musk’s X revokes paid blue check from United Auto Workers after strike called"
+106,37528098,Show HN: IncarnaMind-Chat with your multiple docs using LLMs,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Show HN: IncarnaMind-Chat with your multiple docs using LLMs"
+107,37528338,We have two separate salt-taste systems,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: We have two separate salt-taste systems"
+108,37528394,Zero Effort Private Key Compromise: Abusing SSH-Agent for Lateral Movement,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Zero Effort Private Key Compromise: Abusing SSH-Agent for Lateral Movement"
+109,37528432,Tech workers demand high salaries despite hiring slowdown,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Tech workers demand high salaries despite hiring slowdown"
+110,37528453,The first week of US v. Google – Defaults are everything and nobody likes Bing,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The first week of US v. Google – Defaults are everything and nobody likes Bing"
+111,37528472,Everyday uses for PVC water pipe,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Everyday uses for PVC water pipe"
+112,37528652,Birds with more complex vocal skills are better problem-solvers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Birds with more complex vocal skills are better problem-solvers"
+113,37528816,“Inverse vaccine” shows potential to treat MS and other autoimmune diseases,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: “Inverse vaccine” shows potential to treat MS and other autoimmune diseases"
+114,37529197,"Airtable Lays Off 27% of Firm, Shifts Focus to Big Clients","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Airtable Lays Off 27% of Firm, Shifts Focus to Big Clients"
+115,37529284,The Early Days of American English,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: The Early Days of American English"
+116,37529318,"Nearly 1 in 4 Israelis will be ultra-Orthodox by 2050, study says","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Nearly 1 in 4 Israelis will be ultra-Orthodox by 2050, study says"
+117,37529359,Johnny Cash Has Been Everywhere (Man),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Johnny Cash Has Been Everywhere (Man)"
+118,37529381,"We use TypeScript not based on preference, but because we want to make money","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: We use TypeScript not based on preference, but because we want to make money"
+119,37529459,"MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial","Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial"
+120,37529666,“Most notorious” illegal shadow library (LibGen) sued by textbook publishers,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: “Most notorious” illegal shadow library (LibGen) sued by textbook publishers"
+121,37529683,Where did the Carter White House's solar panels go? (2010),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Where did the Carter White House's solar panels go? (2010)"
+122,37529908,iPhone 15 Pro with X70 modem offers up to 24% faster 5G speeds,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: iPhone 15 Pro with X70 modem offers up to 24% faster 5G speeds"
+123,37530065,I rented a Tesla for a month. It was a giant pain in the a*,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: I rented a Tesla for a month. It was a giant pain in the a*"
+124,37530158,Formatting text in C++: Old and new ways,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Formatting text in C++: Old and new ways"
+125,37530218,Record low Antarctic sea ice coverage indicates a new sea ice state,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Record low Antarctic sea ice coverage indicates a new sea ice state"
+126,37530261,Rule for Beneficial Ownership Reporting (2022),"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Rule for Beneficial Ownership Reporting (2022)"
+127,37530314,Inflation in Austria,"Is the following news story related to aviation or not related to aviation? 
+    The story has to be directly, explicitly related to aviation. 
+    Provide a true or false answer, and then a justification for the answer. 
+    Here is the title of the story: Inflation in Austria"

@@ -7,6 +7,8 @@ setup(
         "dagster",
         "dagster-cloud",
         "pandas",
+        "boto3",
+        "pyarrow"
     ],
     extras_require={"dev": ["dagster-webserver", "pytest"]},
 )
